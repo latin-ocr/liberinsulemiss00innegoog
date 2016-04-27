@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberinsulemiss00innegoog_0081.png"; bbox 0 0 5734 6700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 815 2355 1894 2736">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 815 2355 1894 2736">
+     <span class='ocr_line' id='line_1_1' title="bbox 1161 2355 1550 2455; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1161 2355 1550 2455; x_wconf 85' lang='lat' dir='ltr'><strong>REGISTRUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 815 2635 1894 2736; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 815 2637 1132 2736; x_wconf 85' lang='lat' dir='ltr'><strong>ABBAOIE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1181 2637 1235 2734; x_wconf 91' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1280 2636 1514 2734; x_wconf 80' lang='lat' dir='ltr'><strong>MARIE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1555 2635 1894 2734; x_wconf 88' lang='lat' dir='ltr'>VIRGINIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 844 2903 1821 3028">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 844 2903 1821 3028">
+     <span class='ocr_line' id='line_1_3' title="bbox 844 2903 1821 3028; baseline -0.002 -8"><span class='ocrx_word' id='word_1_6' title='bbox 844 2903 850 2912; x_wconf 50' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 890 2923 966 3020; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 997 2923 1041 3028; x_wconf 84' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1072 2921 1368 3021; x_wconf 86' lang='lat' dir='ltr'><strong>JOHANNIS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1404 2920 1821 3020; x_wconf 82' lang='lat' dir='ltr'><strong>EVANGELISTE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 984 3207 1732 3307">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 984 3207 1732 3307">
+     <span class='ocr_line' id='line_1_4' title="bbox 984 3207 1732 3307; baseline 0.001 -2"><span class='ocrx_word' id='word_1_11' title='bbox 984 3207 1072 3306; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1109 3207 1352 3307; x_wconf 81' lang='lat' dir='ltr'><strong>INSULA</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1388 3207 1732 3306; x_wconf 79' lang='lat' dir='ltr'>MISSARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2872 6692">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2872 6692">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2872 6692; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2872 6692; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberinsulemiss00innegoog_0136.png"; bbox 0 0 5734 6700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3089 3860 3463 3950">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3089 3860 3505 3950">
+     <span class='ocr_line' id='line_1_1' title="bbox 3165 3876 3463 3950; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 3217 3876 3463 3950; x_wconf 42' lang='lat' dir='ltr'><em>:dalmas-{f</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 3165 3934 3171 3940; x_wconf 84' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3089 3860 3410 3944; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 3387 3860 3410 3883; x_wconf 58' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_4' title='bbox 3352 3880 3367 3890; x_wconf 88' lang='grc'><em>.,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 3287 3876 3289 3882; x_wconf 66' lang='lat'><strong>„</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3089 3880 3255 3944; x_wconf 41' lang='lat' dir='ltr'><em>amman..</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 5732 6692">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 5732 6692">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 5732 6692; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 5732 6692; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

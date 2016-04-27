@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberinsulemiss00innegoog_0007.png"; bbox 0 0 5734 6700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 858 2165 1020 2287">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 858 2165 1020 2271">
+     <span class='ocr_line' id='line_1_1' title="bbox 862 2165 1020 2271; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 862 2165 873 2184; x_wconf 48' lang='lat' dir='ltr'>ff</span> <span class='ocrx_word' id='word_1_2' title='bbox 906 2167 908 2172; x_wconf 41' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 996 2165 1020 2271; x_wconf 45' lang='grc' dir='ltr'>Ἰ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 858 2201 863 2228; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 858 2201 863 2228; x_wconf 83' lang='grc'><strong>.’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 858 2232 865 2244; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 858 2232 865 2244; x_wconf 55' lang='lat' dir='ltr'>i</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1014 2276 1017 2287">
+     <span class='ocr_line' id='line_1_4' title="bbox 1014 2276 1017 2287; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1014 2276 1017 2287; x_wconf 83' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 718 2335 1037 2504">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 718 2335 1037 2504">
+     <span class='ocr_line' id='line_1_5' title="bbox 1031 2359 1037 2376; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1031 2359 1037 2376; x_wconf 71' lang='lat'><strong>⁴</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 718 2335 869 2504; baseline 0.033 -5"><span class='ocrx_word' id='word_1_8' title='bbox 718 2335 869 2504; x_wconf 43' lang='lat' dir='ltr'><strong>X&gt;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1175 2557 1421 2665">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1175 2557 1421 2665">
+     <span class='ocr_line' id='line_1_7' title="bbox 1175 2557 1421 2665; baseline 0.004 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1175 2557 1421 2665; x_wconf 86' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 965 2963 1630 3062">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 965 2963 1630 3062">
+     <span class='ocr_line' id='line_1_8' title="bbox 965 2963 1630 3062; baseline 0.003 -6"><span class='ocrx_word' id='word_1_10' title='bbox 965 2963 1219 3060; x_wconf 84' lang='lat' dir='ltr'><strong>INSULE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1260 2963 1630 3062; x_wconf 78' lang='lat' dir='ltr'><strong>MISSARUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2872 6692">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2872 6692">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 2872 6692; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2872 6692; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
